@@ -1,4 +1,4 @@
-for i in range(1,101):
-print(i)
-well done ,all done!
+for i in range(1,12):
+	print(i)
+	print("well done ,all done!")
 
